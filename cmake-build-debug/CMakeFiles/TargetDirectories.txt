@@ -1,0 +1,3 @@
+F:/tsuab/cpp_projects/cmake-build-debug/CMakeFiles/cpp_projects.dir
+F:/tsuab/cpp_projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/tsuab/cpp_projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
