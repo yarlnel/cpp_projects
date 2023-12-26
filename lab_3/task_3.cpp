@@ -1,22 +1,17 @@
-#include<iostream>
+#include <iostream>
 #include <cmath>
+#include <windows.h>
 
 using namespace std;
 
-/*
-Создайте проект, в котором выполняются арифметические выражения.
- */
 int main() {
+    SetConsoleOutputCP(CP_UTF8);
+    double a = 7.0;
+    double b = 9.0;
 
-    int a = 7;
-    int b = 9;
+    double result = sqrt(4 * pow(a, 11)) * sqrt(9 * pow(b, 4)) / sqrt(pow(a, 7) * pow(b, 4));
 
-    int top = sqrt(4 * (a ^ 11)) * sqrt(9 * (b ^ 3));
-    int bottom = sqrt((a ^ 7) * (b ^ 4));
-
-    cout << top / bottom << endl;
-
-    // TODO
+    cout << "Результат: " << result << endl;
 
     return 0;
 }

@@ -121,6 +121,30 @@ build CMakeFiles/cpp_projects.dir/lab_3/task_4.cpp.obj: CXX_COMPILER__cpp_projec
   OBJECT_DIR = CMakeFiles\cpp_projects.dir
   OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\lab_3
 
+build CMakeFiles/cpp_projects.dir/lab_6/task_1.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug F$:/tsuab/cpp_projects/lab_6/task_1.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\lab_6\task_1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\lab_6
+
+build CMakeFiles/cpp_projects.dir/lab_6/task_2.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug F$:/tsuab/cpp_projects/lab_6/task_2.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\lab_6\task_2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\lab_6
+
+build CMakeFiles/cpp_projects.dir/lab_6/task_3.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug F$:/tsuab/cpp_projects/lab_6/task_3.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\lab_6\task_3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\lab_6
+
+build CMakeFiles/cpp_projects.dir/lab_6/task_4.cpp.obj: CXX_COMPILER__cpp_projects_unscanned_Debug F$:/tsuab/cpp_projects/lab_6/task_4.cpp || cmake_object_order_depends_target_cpp_projects
+  DEP_FILE = CMakeFiles\cpp_projects.dir\lab_6\task_4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cpp_projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\cpp_projects.dir\lab_6
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cpp_projects
@@ -129,7 +153,7 @@ build CMakeFiles/cpp_projects.dir/lab_3/task_4.cpp.obj: CXX_COMPILER__cpp_projec
 #############################################
 # Link the executable cpp_projects.exe
 
-build cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/lab_5/task_1.cpp.obj CMakeFiles/cpp_projects.dir/lab_5/task_2.cpp.obj CMakeFiles/cpp_projects.dir/lab_5/task_3.cpp.obj CMakeFiles/cpp_projects.dir/lab_4/task_1.cpp.obj CMakeFiles/cpp_projects.dir/lab_4/task_2.cpp.obj CMakeFiles/cpp_projects.dir/lab_4/task_3.cpp.obj CMakeFiles/cpp_projects.dir/lab_4/task_4.cpp.obj CMakeFiles/cpp_projects.dir/lab_3/task_1.cpp.obj CMakeFiles/cpp_projects.dir/lab_3/task_2.cpp.obj CMakeFiles/cpp_projects.dir/lab_3/task_3.cpp.obj CMakeFiles/cpp_projects.dir/lab_3/task_4.cpp.obj
+build cpp_projects.exe: CXX_EXECUTABLE_LINKER__cpp_projects_Debug CMakeFiles/cpp_projects.dir/main.cpp.obj CMakeFiles/cpp_projects.dir/lab_5/task_1.cpp.obj CMakeFiles/cpp_projects.dir/lab_5/task_2.cpp.obj CMakeFiles/cpp_projects.dir/lab_5/task_3.cpp.obj CMakeFiles/cpp_projects.dir/lab_4/task_1.cpp.obj CMakeFiles/cpp_projects.dir/lab_4/task_2.cpp.obj CMakeFiles/cpp_projects.dir/lab_4/task_3.cpp.obj CMakeFiles/cpp_projects.dir/lab_4/task_4.cpp.obj CMakeFiles/cpp_projects.dir/lab_3/task_1.cpp.obj CMakeFiles/cpp_projects.dir/lab_3/task_2.cpp.obj CMakeFiles/cpp_projects.dir/lab_3/task_3.cpp.obj CMakeFiles/cpp_projects.dir/lab_3/task_4.cpp.obj CMakeFiles/cpp_projects.dir/lab_6/task_1.cpp.obj CMakeFiles/cpp_projects.dir/lab_6/task_2.cpp.obj CMakeFiles/cpp_projects.dir/lab_6/task_3.cpp.obj CMakeFiles/cpp_projects.dir/lab_6/task_4.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cpp_projects.dir

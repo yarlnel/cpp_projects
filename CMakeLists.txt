@@ -15,4 +15,8 @@ add_executable(cpp_projects main.cpp
         lab_3/task_2.cpp
         lab_3/task_3.cpp
         lab_3/task_4.cpp
+        lab_6/task_1.cpp
+        lab_6/task_2.cpp
+        lab_6/task_3.cpp
+        lab_6/task_4.cpp
 )
